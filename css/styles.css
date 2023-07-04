@@ -1,0 +1,11 @@
+div{
+    background-color:skyblue;
+    margin: 5px;
+    border: 10px solid rgb(37, 19, 6);
+    border-radius: 10px 100px;
+    padding-left: 50px;
+}
+h3{
+    color: rgb(186, 11, 11);
+    font-size: x-large;
+}
