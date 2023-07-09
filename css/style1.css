@@ -1,27 +1,11 @@
-p {
-    font-size: 40px;
-    font-weight: bold;
-    text-decoration: underline;
-
-  }
-  .cc{
-    display: flex;
-    justify-content: center;
-
-  }
-div{
-     background-color: #6e401f;
-    border: rgb(113, 113, 131) solid;
-    border-bottom-right-radius: 60px;
-    border-top-left-radius: 60px;
-    max-width: 400px;
-    height: 400px;
-    width: 300px;
-    margin-left: 500px;
-    margin-top: 80px;
-
- 
-}
-.log{
-    background-color: rgb(195, 14, 14);
-}  
+ .nab{
+  display:flex;
+  justify-content:space-around;
+  background-color: #424141;
+  color: white;
+  padding: 12px;
+ }
+ .menu{
+  display: flex;
+    list-style: none;
+ }
