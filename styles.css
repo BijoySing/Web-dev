@@ -39,7 +39,7 @@
         width: 1000px;
         display: grid;
         place-items: center;
-        border: 5px red solid;
+        /* border: 5px red solid; */
         margin: 0 auto;
     }
 
